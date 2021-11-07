@@ -1,0 +1,53 @@
+Features,rf_weights
+num_bids_per_auction,0.18303673189493463
+num_bids,0.13861533386683128
+num_bids_per_device,0.10324081953596942
+time,0.07744581423674515
+num_bids_per_country,0.04479780194548606
+perc_inst_resp,0.04069238806389737
+percentage_of_auctions_above_threshold,0.03772138094645438
+inst_resp,0.03696469432110187
+time_to_bid,0.03600972067941292
+num_bids_per_ip,0.021909146609074136
+no_of_auction_exceeds_threshold,0.020636459790540566
+on_url_that_has_a_bot_mean,0.018156739045508973
+mean_url_per_auction,0.014345843915589575
+std_devices_per_auction,0.01341114397245289
+max_ip_per_auction,0.01277465516522447
+max_devices_per_auction,0.012433309241632466
+on_ip_that_has_a_bot_mean,0.012352662963000706
+ip_entropy,0.01162485189427127
+std_country_per_auction,0.011602991619107661
+std_ip_per_auction,0.011260263324253355
+max_country_per_auction,0.01067952914290793
+country,0.010132659982394593
+ip,0.009346537743631636
+auction,0.009343893547202093
+total_no_of_participated_auctions,0.008979883331863208
+mean_ip_per_auction,0.008742130609531872
+std_url_per_auction,0.008698652085286624
+mean_devices_per_auction,0.008523059005151105
+device,0.008509415201945607
+mean_country_per_auction,0.007822716218769277
+url,0.00759379509827919
+max_url_per_auction,0.006961828010775528
+url_entropy,0.006698746204943618
+mobile,0.005878111976547543
+jewelry,0.0053234598436949975
+home goods,0.002993765321111477
+num_last_bids,0.0028859323539094342
+sporting goods,0.0027458151492274524
+percentage_of_merchandise_above_threshold,0.0022695056222303916
+num_first_bids,0.0021316951126407295
+no_of_merchandise_exceeds_threshold,0.00206754801581668
+computers,0.0019438772216089954
+books and music,0.0003762766085101647
+office equipment,0.00020302803779776997
+min_url_per_auction,6.749410152044301e-05
+min_ip_per_auction,1.993507434847128e-05
+min_country_per_auction,1.2933213924961936e-05
+min_devices_per_auction,9.819521042981578e-06
+total_no_of_bidded_category,5.203611896232354e-06
+clothing,0.0
+furniture,0.0
+auto parts,0.0
